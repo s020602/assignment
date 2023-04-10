@@ -87,7 +87,6 @@ while True:
             print("The modulos %  of ",num1, "divided by ", num2, "is:", result)
         else:
             print("Invalid Input")
-#mathematical funions declared and will run as per user input
     
 
     elif num == "4":
@@ -173,7 +172,6 @@ while True:
                 print("you won",user_input)
             else:
                 print("You lost",user_choice)
-#prints the results
             return user_choice
         rock_paper_scissors()
     elif num == "7":
